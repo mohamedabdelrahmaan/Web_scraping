@@ -1,7 +1,3 @@
-# Web_scraping
-This repository contains a Python script that demonstrates how to scrape table from an HTML structure.
-
-```markdown
 # Web Scraping Testimonials
 
 This repository contains a Python script that demonstrates how to scrape testimonials from an HTML structure. The provided HTML code represents a testimonials section on a webpage, and the script uses BeautifulSoup to extract information from it.
@@ -29,5 +25,4 @@ Comment: Sprints Bootcamp was a great experience...
 
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
